@@ -1,0 +1,24 @@
+.wraper{
+    max-width: 1440px;
+    width: 100%;
+}
+.container1{
+    width: 100%;
+    max-width: 1440px;
+    height: 100vh;
+    max-height: 1025px;
+    background: #666666;
+    margin: 0 auto;
+    margin-left: 3%;
+    margin-right: 4%;
+}
+.container1 .button{
+    padding-top: 30%;
+}
+.container1 .button a{
+    text-decoration: none;
+    padding: 20px;
+    background: #666246;
+    color: white;
+}
+
